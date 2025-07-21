@@ -1,5 +1,4 @@
-//introduction. file
-<br>
+//introduction <br>  file of calculator
 #include <stdio.h>  
 
 int main() {
